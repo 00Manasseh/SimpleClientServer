@@ -1,6 +1,6 @@
 Simple Client-Server Application Using Python
 
- Project Overview
+Project Overview
 
 This project demonstrates a simple client-server application developed using Python socket programming. The application runs on the localhost environment (`127.0.0.1`) and uses the TCP protocol to establish communication between the client and the server.
 
